@@ -1,0 +1,193 @@
+{
+    "products": [{
+            "id": 1,
+            "title": "iPhone 9",
+            "price": 54000,
+            "brand": "Apple",
+            "category": "smartphones",
+            "image": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc",
+            "variants": [{
+                    "size": "8GB",
+                    "price": 54000
+                },
+                {
+                    "size": "16GB",
+                    "price": 60000
+                },
+                {
+                    "size": "32GB",
+                    "price": 70000
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "iPhone 10",
+            "price": 60000,
+            "brand": "Apple",
+            "category": "smartphones",
+            "variants": [{
+                    "size": "8GB",
+                    "price": 60000
+                },
+                {
+                    "size": "32GB",
+                    "price": 68000
+                }
+            ],
+            "image": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc"
+        },
+        {
+            "id": 3,
+            "title": "iPhone 12",
+            "price": 78000,
+            "brand": "Apple",
+            "category": "smartphones",
+            "image": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc",
+            "variants": [{
+                    "size": "8GB",
+                    "price": 78000
+                },
+                {
+                    "size": "16GB",
+                    "price": 90000
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "iPhone 12 pro",
+            "price": 80000,
+            "brand": "Apple",
+            "category": "smartphones",
+            "image": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc",
+            "variants": [{
+                    "size": "16GB",
+                    "price": 80000
+                },
+                {
+                    "size": "32GB",
+                    "price": 100000
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "iPhone 6s+",
+            "price": 48000,
+            "brand": "Apple",
+            "category": "smartphones",
+            "image": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc",
+            "variants": [{
+                    "size": "8GB",
+                    "price": 48000
+                },
+                {
+                    "size": "16GB",
+                    "price": 54000
+                },
+                {
+                    "size": "32GB",
+                    "price": 60000
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "iPhone 14 pro",
+            "price": 120000,
+            "brand": "Apple",
+            "category": "smartphones",
+            "image": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc",
+            "variants": [{
+                    "size": "8GB",
+                    "price": 120000
+                },
+                {
+                    "size": "16GB",
+                    "price": 129000
+                },
+                {
+                    "size": "32GB",
+                    "price": 140000
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "iPhone 11",
+            "price": 89000,
+            "brand": "Apple",
+            "category": "smartphones",
+            "image": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc",
+            "variants": [{
+                    "size": "16GB",
+                    "price": 89000
+                },
+                {
+                    "size": "32GB",
+                    "price": 95000
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "iPhone 14",
+            "price": 98000,
+            "brand": "Apple",
+            "category": "smartphones",
+            "image": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc",
+            "variants": [{
+                    "size": "8GB",
+                    "price": 98000
+                },
+                {
+                    "size": "32GB",
+                    "price": 110000
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "iPad",
+            "price": 125000,
+            "brand": "Apple",
+            "category": "smartphones",
+            "image": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc",
+            "variants": [{
+                    "size": "8GB",
+                    "price": 125000
+                },
+                {
+                    "size": "16GB",
+                    "price": 130000
+                },
+                {
+                    "size": "32GB",
+                    "price": 135000
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "iPhone SE",
+            "price": 38000,
+            "brand": "Apple",
+            "category": "smartphones",
+            "image": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc",
+            "variants": [{
+                    "size": "8GB",
+                    "price": 38000
+                },
+                {
+                    "size": "16GB",
+                    "price": 46000
+                },
+                {
+                    "size": "32GB",
+                    "price": 50000
+                }
+            ]
+        }
+    ]
+}

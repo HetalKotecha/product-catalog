@@ -1,0 +1,136 @@
+{
+    "discounts": [{
+            "id": 1,
+            "offers": [{
+                    "id": 1,
+                    "offerName": "Bank Offer",
+                    "description": "Upto 1500 discount on Credit cards",
+                    "discountPercentage": "5"
+                },
+                {
+                    "id": 2,
+                    "offerName": "Cashback Offer",
+                    "description": "Upto 1000 Rs discount on sign on",
+                    "discountPercentage": "3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "quantity": 5,
+            "offers": [{
+                    "id": 1,
+                    "offerName": "Bank Offer",
+                    "description": "Upto 1500 discount on Credit cards",
+                    "discountPercentage": "5"
+                },
+                {
+                    "id": 2,
+                    "offerName": "No Cost EMI Offer",
+                    "description": "Upto 1000 Rs discount on sign on",
+                    "discountPercentage": "7"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "quantity": 2,
+            "offers": [{
+                    "id": 1,
+                    "offerName": "Bank Offer",
+                    "description": "Upto 1500 discount on Credit cards",
+                    "discountPercentage": "5"
+                },
+                {
+                    "id": 2,
+                    "offerName": "Cashback Offer",
+                    "description": "Upto 1000 Rs discount on sign on",
+                    "discountPercentage": "3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "quantity": 0,
+            "offers": []
+        },
+        {
+            "id": 5,
+            "quantity": 8,
+            "offers": [{
+                    "id": 1,
+                    "offerName": "Partner Offer",
+                    "description": "Upto 1500 discount on Credit cards",
+                    "discountPercentage": "5"
+                },
+                {
+                    "id": 2,
+                    "offerName": "Cashback Offer",
+                    "description": "Upto 1000 Rs discount on sign on",
+                    "discountPercentage": "3"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "quantity": 7,
+            "offers": []
+        },
+        {
+            "id": 7,
+            "quantity": 1,
+            "offers": [{
+                    "id": 1,
+                    "offerName": "Bank Offer",
+                    "description": "Upto 1500 discount on Credit cards",
+                    "discountPercentage": "5"
+                },
+                {
+                    "id": 2,
+                    "offerName": "Cashback Offer",
+                    "description": "Upto 1000 Rs discount on sign on",
+                    "discountPercentage": "4"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "quantity": 5,
+            "offers": [{
+                    "id": 1,
+                    "offerName": "Bank Offer",
+                    "description": "Upto 1500 discount on Credit cards",
+                    "discountPercentage": "5"
+                },
+                {
+                    "id": 2,
+                    "offerName": "Cashback Offer",
+                    "description": "Upto 1000 Rs discount on sign on",
+                    "discountPercentage": "5"
+                },
+                {
+                    "id": 3,
+                    "offerName": "Partner Offer",
+                    "description": "Upto 1000 Rs discount on sign on",
+                    "discountPercentage": "2"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "quantity": 3,
+            "offers": [{
+                "id": 1,
+                "offerName": "Bank Offer",
+                "description": "Upto 1500 discount on Credit cards",
+                "discountPercentage": "5"
+            }]
+
+        },
+        {
+            "id": 10,
+            "quantity": 3,
+            "offers": []
+        }
+    ]
+}
